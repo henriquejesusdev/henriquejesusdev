@@ -96,10 +96,14 @@ Monitor | Junho/2022 - Junho/2023
 ## GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=henriquejesusdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquejesusdev&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriquejesusdev&theme=dracula" alt="Resumo do perfil GitHub" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/henriquejesusdev/henriquejesusdev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriquejesusdev&theme=dracula" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquejesusdev&theme=dracula" alt="Linguagens por repositório" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/henriquejesusdev/henriquejesusdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
