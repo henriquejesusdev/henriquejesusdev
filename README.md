@@ -103,7 +103,3 @@ Monitor | Junho/2022 - Junho/2023
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=henriquejesusdev&theme=dracula" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquejesusdev&theme=dracula" alt="Linguagens por repositório" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/henriquejesusdev/henriquejesusdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
